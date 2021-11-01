@@ -1,0 +1,3 @@
+/home/nano/Development/detect_demo/build/CMakeFiles/rebuild_cache.dir
+/home/nano/Development/detect_demo/build/CMakeFiles/yolox.dir
+/home/nano/Development/detect_demo/build/CMakeFiles/edit_cache.dir
